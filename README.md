@@ -1,5 +1,5 @@
 # IGC
-This is the implementation of our paper: [Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data].
+This is the implementation of our paper: Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data.
 
 
 ## Introduction
