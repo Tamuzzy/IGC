@@ -1,5 +1,5 @@
 # IGC
-This is the demo implementation of our paper: Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data.
+This is the demo implementation of our paper: [Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data](https://arxiv.org/abs/2406.10419).
 
 
 ## Introduction
@@ -8,4 +8,10 @@ Granger causality, commonly used for inferring causal structures from time serie
 
 ## Citation
 If you find it useful, please cite our paper. Thank you!
- 
+
+@article{zhang2024learning,
+  title={Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data},
+  author={Zhang, Ziyi and Ren, Shaogang and Qian, Xiaoning and Duffield, Nick},
+  journal={arXiv preprint arXiv:2406.10419},
+  year={2024}
+}
